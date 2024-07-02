@@ -21,9 +21,12 @@ Why Choose Me?
 *Client Satisfaction: Focused on ensuring complete satisfaction with my services.
 
 - I’m looking to collaborate on SQA Engineer Intern.
-- How to reach me: Phone: 01781678998 or 01946766507
+- How to reach me:
+- Phone: 01781678998 or 01946766507
 - Facebook: https://www.facebook.com/mdeliash.khan.14/?viewas=100000686899395
 - Linkdin: https://www.linkedin.com/in/md-elias-khan-aa751b206?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbsrFzRIbQES98WF2APUP6Q%3D%3D
+- E-mail:mdeliaskhan1918004@gmail.com
+- WhatsApp: 01781678998
 
   🎓 Education:
 B.S. in Information and Communication Technology,
