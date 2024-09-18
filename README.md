@@ -2,7 +2,7 @@ About Me!!!
 
 Hey, I am Md Elias khan. I'm a passionate and detail-oriented Software Quality Assurance (SQA) Engineer with over 10 months of hands-on experience in manual testing and quality assurance. My mission is to ensure that every piece of software I work on is robust, reliable, and provides an excellent user experience.
 
-***Recently I have got an oppurtunity to work as an internship in SQA Engineer at iCrew tecnologies. Now i am working here. Currently i am working a Mobile application project for Manual testing. For working on this project, I have learned many things in SQA and Manual testing.
+***Recently I have got an oppurtunity to work as an internship in SQA Engineer at iCrew tecnologies. Now i am working here. Currently i am working a Mobile application project for Manual testing. For working on this project, I have learned many things in SQA and Manual testing. I have already testing two Mobile Application in manually at iCrew Technologies.
 
 🌟 Skills & Expertise:
 -Manual Testing: Expert in identifying defects and ensuring software quality through rigorous manual testing.
@@ -13,8 +13,8 @@ Hey, I am Md Elias khan. I'm a passionate and detail-oriented Software Quality A
 -Agile Methodologies: Comfortable working in Agile/Scrum environments, contributing to sprint planning, stand-ups, and retrospectives.
 
 🛠️ Tools & Technologies:
--Testing Tools: JIRA, Selenium WebDriver
--Languages: Python(Basic),C,C++,HTML,CSS
+-Testing Tools: JIRA, Selenium WebDriver, TestNG Framework, API Testing using Postman and Newman Integration
+-Languages:Java, Python(Basic),C,C++,HTML,CSS
 -Operating Systems: Windows.
 -Browsers: Chrome, Firefox, Edge
 
