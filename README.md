@@ -6,7 +6,7 @@ Hey, I am Md Elias khan. I'm a passionate and detail-oriented Software Quality A
 
 🌟 Skills & Expertise:
 -Manual Testing: Expert in identifying defects and ensuring software quality through rigorous manual testing.
--Automated Testing: Familiar with Web Automation using Selenium, API Testing using Postman et, Performance Testing Using JMeter.
+-Automated Testing: Familiar with Web Automation using Selenium, API Testing using Postman and Performance Testing Using JMeter.
 -Test Planning: Proficient in developing comprehensive test plans and test cases based on detailed product requirements.
 -Defect Tracking: Experienced in using tools like JIRA to manage and track software defects.
 -Regression Testing: Skilled at performing thorough regression tests to ensure new changes do not introduce new issues.
@@ -34,8 +34,8 @@ Why Choose Me?
 - WhatsApp: 01781678998
 
   🎓 Education:
-B.S. in Information and Communication Technology,
-Currently 7th Semester Student
+B.Sc. in Information and Communication Technology,
+Currently last Semester Student
 Islamic University, Bangladesh
  
 - ⚡ Fun fact: Playing Cricket and seeing Champions League and EPL Football match
