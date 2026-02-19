@@ -35,7 +35,6 @@ Why Choose Me?
 
   🎓 Education:
 B.Sc. in Information and Communication Technology,
-Currently last Semester Student
 Islamic University, Bangladesh
  
 - ⚡ Fun fact: Playing Cricket and seeing Champions League and EPL Football match
